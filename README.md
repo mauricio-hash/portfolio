@@ -13,3 +13,5 @@
 - Sr Data Analyst - Instituto Ânima Educação
 
 - Lean Intern - GE Healthcare
+- 
+### Projects
