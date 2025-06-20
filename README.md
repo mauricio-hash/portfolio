@@ -1,5 +1,7 @@
 # Data Scientist
 
+### Technical Skills: Python, Forecast Modeling, ML, SQL, Power BI, Figma
+
 ### Education
 - Postgrad in Data Analysis - Anhanguera University
 
